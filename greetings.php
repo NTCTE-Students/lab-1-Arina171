@@ -116,5 +116,4 @@
     print('<br>');
     print('<br>');
     print('<br>');
-    // Plagued Lizard （づ￣3￣）づ╭❤️～
 ?>
