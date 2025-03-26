@@ -1,6 +1,6 @@
 <?php
     $x = 5;
-    $name = 'John';
+    $name = 'Arina';
     $txt = 'W3Schools.com';
     echo "I love {$txt}!";
     $txt1 = "W3Schools.com";
@@ -19,7 +19,7 @@
 <?php
     var_dump($x);
     var_dump(5);
-    var_dump('John');
+    var_dump('Arina');
     var_dump(3.14);
     var_dump(true);
     var_dump([2, 3, 56]);
@@ -94,4 +94,5 @@
     print('<br>');
     print('<br>');
     print('<br>');
+    // Коля бибизяна 🍌
 ?>
